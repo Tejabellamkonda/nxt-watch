@@ -1,0 +1,10 @@
+.savedImage {
+  height: 250px;
+}
+
+.saved-card {
+  height: 300px;
+  display: flex;
+  margin-bottom: 20px;
+  color: brown;
+}

@@ -1,0 +1,12 @@
+.no-saved-videos-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.no-saved-image {
+  width: 400px;
+  height: 300px;
+}

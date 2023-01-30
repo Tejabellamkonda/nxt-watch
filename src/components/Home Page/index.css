@@ -1,0 +1,51 @@
+.page-body {
+  flex-grow: 1;
+
+  display: flex;
+  justify-content: center;
+  height: 85vh;
+}
+
+.sidebar {
+  height: 100%;
+  width: 300px;
+  padding: 20px;
+
+  font-family: 'Roboto';
+  font-size: 20px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.ul-cont {
+  list-style-type: none;
+}
+
+.content {
+  font-family: 'Roboto';
+  align-items: center;
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+.logos {
+  width: 30px;
+  margin-right: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar {
+    display: none;
+  }
+}
+
+.link-style {
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.li-item {
+  margin-bottom: 10px;
+}

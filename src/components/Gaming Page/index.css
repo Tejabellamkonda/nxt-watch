@@ -1,0 +1,41 @@
+.contaier {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}
+
+.button {
+  padding: 5px;
+  background-color: blue;
+  color: #ffffff;
+}
+
+.videosContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image {
+  width: 100%;
+}
+
+.card-cont {
+  width: 300px;
+  margin-left: 10px;
+  list-style-type: none;
+}
+
+.Gaming-bgCont {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item-Link {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}

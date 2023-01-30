@@ -1,0 +1,23 @@
+.video-details-cont {
+  display: flex;
+  justify-content: space-between;
+  color: brown;
+}
+
+.likes-cont {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.channel-cont {
+  display: flex;
+}
+
+.description-cont {
+  margin-left: 5px;
+  margin-top: 0px;
+}
+
+.videoplayer {
+  width: 100%;
+}

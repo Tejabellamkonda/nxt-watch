@@ -1,0 +1,18 @@
+.trend-bgCont {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
+.video-card {
+  display: flex;
+  margin-bottom: 20px;
+  color: brown;
+}
+
+.content {
+  padding-left: 10px;
+}
+
+.trend-image {
+  width: 50%;
+}
